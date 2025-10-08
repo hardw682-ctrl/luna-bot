@@ -1,1 +1,10 @@
 
+{
+  "runtime": "python",
+  "version": "3.11",
+  "start": "python bot.py",
+  "build": {
+    "type": "pip",
+    "path": "."
+  }
+}
